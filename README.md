@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+I'm Jose Rangel, here you can see my projects. 
+I'm currintly working in a Bank simulator with my developer team
+I'm learning Python, programing and how to use VSC
+I'm studying software enginner at University of cartagena and software developer at Riwi
+I love to practice Voleibol and a outgonig person, we can hangout on weekends, interact in english to practice
+I'm patien, proud and egocentric sometimes, not proud of those but im like that only in videogames 
+so don´t be shy to be handsome with me.
 <!--
 **Jhaymayleth/Jhaymayleth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
